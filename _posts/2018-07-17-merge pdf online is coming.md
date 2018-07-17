@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      merge pdf online is coming
-subtitle:   the most simple, using the best merge pdf online site is coming: http://pdfmerge.online
+subtitle:   the most simple, using the best merge pdf online site is coming
 date:       2018-07-17
 author:     enilu
 header-img: img/tag-bg-o.jpg
