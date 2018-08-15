@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     enilu
+# weibo_username:     enilu
+#zhihu_username:     enilu
 github_username:    enilu
 facebook_username:  tao.zhang.90038882
 jianshu_username:   6e0aea88af81
@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: enilu
+#disqus_username: enilu
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: c1d35c14f47fe27ba7ee                            #生成的clientID
+  clientSecret: 11d5f41b9a2f5dc65410e1a7c11a2ba85955b5c9    #生成的clientSecret
   repo: enilu-en.github.io    #仓库名称
   owner: enilu-en    #github用户名
   admin: enilu-en
@@ -102,10 +102,10 @@ friends: [
         title: "enilu.cn",
         href: "http://enilu.cn"
     },{
+        title: "IT博客精选",
+        href: "http://itblog.daiwoniu.com/"
+    },{
         title: "pdf merge online",
         href: "http://pdfmerge.online"
-    },{
-        title: "enilu's english blog",
-        href: "https://blog.enilu.cn"
     }
 ]
