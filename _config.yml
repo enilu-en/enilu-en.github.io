@@ -67,7 +67,7 @@ gitalk:
   repo: enilu-en.github.io    #仓库名称
   owner: enilu-en    #github用户名
   admin: 广陵观涛
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMod0e: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
