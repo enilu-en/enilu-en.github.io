@@ -65,8 +65,8 @@ gitalk:
   clientID: c1d35c14f47fe27ba7ee                            #生成的clientID
   clientSecret: 11d5f41b9a2f5dc65410e1a7c11a2ba85955b5c9    #生成的clientSecret
   repo: enilu-en.github.io    #仓库名称
-  owner: 广陵观涛    #github用户名
-  admin: enilu-en
+#  owner: enilu-en    #github用户名
+#  admin: enilu-en
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
