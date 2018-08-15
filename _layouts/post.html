@@ -99,6 +99,8 @@ layout: default
                     id: (location.pathname).split("/").pop().substring(0, 49)
                     });
                     gitalk.render('gitalk-container');
+                    console.log(location.pathname);
+                    console.log((location.pathname).split("/").pop().substring(0, 49));
                 </script>
                 {% endif %}
                 <!-- Gitalk end -->
