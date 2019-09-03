@@ -99,8 +99,6 @@ layout: default
                     id: (location.pathname).split("/")[4].substring(0, 40)
                     });
                     gitalk.render('gitalk-container');
-                    console.log(location.pathname);
-                    console.log((location.pathname).split("/")[4].substring(0, 40));
                 </script>
                 {% endif %}
                 <!-- Gitalk end -->
@@ -113,7 +111,7 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
-            </div>  
+            </div>
 
     <!-- Side Catalog Container -->
         {% if page.catalog %}
@@ -211,7 +209,6 @@ layout: default
         };
         anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
     })
-    console.log((location.pathname).split("/").pop().substring(0, 49))
 </script>
 <style>
     /* place left on bigger screen */

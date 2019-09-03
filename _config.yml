@@ -79,7 +79,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-71886989-12'            # Format: UA-xxxxxx-xx
-ga_domain: reading.enilu.cn             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: www.maggie.link             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,11 +100,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "enilu.cn",
-        href: "http://www.enilu.cn"
-    },{
-        title: "IT博客精选",
-        href: "http://itblog.daiwoniu.com/"
+        title: "blog.enilu.cn",
+        href: "http://blog.enilu.cn"
     },{
         title: "pdf merge online",
         href: "http://pdfmerge.enilu.cn"
