@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: c1d35c14f47fe27ba7ee                            #生成的clientID
-  clientSecret: 11d5f41b9a2f5dc65410e1a7c11a2ba85955b5c9    #生成的clientSecret
+  clientID: d3e1ddfb9c5ac37fb3a3                            #生成的clientID
+  clientSecret: 350d6b3d2137b3b82ee5873f14e71be585cc1acc    #生成的clientSecret
   repo: enilu-en.github.io    #仓库名称
   owner: enilu-en    #github用户名
   admin: 广陵观涛
