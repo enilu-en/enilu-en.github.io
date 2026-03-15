@@ -37,3 +37,4 @@ _site
 # personal files
 todo.md
 session_*.md
+node_modules/*
