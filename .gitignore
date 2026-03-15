@@ -38,3 +38,4 @@ _site
 todo.md
 session_*.md
 node_modules/*
+package-lock.json
