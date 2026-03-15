@@ -33,3 +33,7 @@ Temporary Items
 _site
 
 .idea/*
+.claude/*
+# personal files
+todo.md
+session_*.md
