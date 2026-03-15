@@ -36,6 +36,39 @@
 - skills 以项目内 `doc/ai-skills/` 为准
 - 工具入口文件冲突时以 README 为准
 
+## 项目概述
+
+这是一个为"小张的读书会"打造的**基于 Jekyll 的静态博客网站**，专注于书籍评论和读书笔记。它是 Hux Blog 主题的定制化分支，采用现代 Web 技术并支持 PWA（渐进式 Web 应用）。
+
+## 关键技术与栈
+
+- **静态网站生成器：** Jekyll 3.x 配合 GFM（GitHub 风格 Markdown）
+- **构建工具：** Grunt（CSS/JS 编译和压缩）
+- **CSS：** Less 预处理器，Bootstrap 3.x
+- **JavaScript：** 原生 JS，用于 PWA 的 Service Worker
+- **评论系统：** Gitalk（基于 GitHub Issues 的评论系统）
+- **分析工具：** Google Analytics 和百度 Analytics
+- **语法高亮：** Rouge
+- **分页：** Jekyll Paginate 插件
+
+## 关键功能
+
+1. **响应式设计：** 基于 Bootstrap 3.x 的移动友好布局
+2. **渐进式 Web 应用（PWA）：** Service Worker 支持离线模式和添加到主屏幕功能
+3. **Gitalk 评论：** 基于 GitHub Issues 的评论系统，支持中文 URL
+4. **基于标签的分类：** 通过标签浏览文章
+5. **SEO 优化：** 站点地图、RSS 订阅源和元数据
+6. **语法高亮：** Rouge 用于代码块高亮
+7. **社交集成：** GitHub、Facebook、Twitter 和其他社交媒体链接
+
+## 定制化
+
+这是 Hux Blog 主题的分支版本，专为"小张的读书会"定制：
+- 修改了 Gitalk 以处理长中文 URL，截断为 40 个字符
+- 内容专注于书籍评论和读书笔记
+- 自定义域名配置（reading.enlu.cn）
+- 更新了社交媒体资料
+
 ## 备忘
 
 这里说明本博客做的特殊调整：
